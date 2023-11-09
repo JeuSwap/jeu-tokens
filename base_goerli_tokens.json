@@ -11,6 +11,14 @@
   "keywords": ["jeuswap", "default"],
   "tokens": [
     {
+      "name": "Jeu Token",
+      "symbol": "Jeu",
+      "address": "0x8f168D1380C592029505897A35af30fA49128895",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/JeuSwap/jeu-tokens/main/images/84531/tokens/0x8f168D1380C592029505897A35af30fA49128895.png"
+    },
+    {
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "address": "0xeA96c24CDeF2FB472b86eB51414e8D7cf2cA3302",
