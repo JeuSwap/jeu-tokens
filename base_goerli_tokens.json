@@ -1,0 +1,62 @@
+{
+  "name": "JeuSwap Default List",
+  "timestamp": "2023-11-08T11:45:09Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://jeu.app/logo.png",
+  "keywords": ["jeuswap", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xeA96c24CDeF2FB472b86eB51414e8D7cf2cA3302",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/JeuSwap/jeu-tokens/main/images/84531/tokens/0xeA96c24CDeF2FB472b86eB51414e8D7cf2cA3302.png"
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/JeuSwap/jeu-tokens/main/images/84531/tokens/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "name": "Base Goerli LINK",
+      "symbol": "LINK",
+      "address": "0x6D0F8D488B669aa9BA2D0f0b7B75a88bf5051CD3",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/JeuSwap/jeu-tokens/main/images/84531/tokens/0x6D0F8D488B669aa9BA2D0f0b7B75a88bf5051CD3.png"
+    },
+    {
+      "name": "USDC Base Goerli",
+      "symbol": "USDC",
+      "address": "0x2e9F75DF8839ff192Da27e977CD154FD1EAE03cf",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/JeuSwap/jeu-tokens/main/images/84531/tokens/0x2e9F75DF8839ff192Da27e977CD154FD1EAE03cf.png"
+    },
+    {
+      "name": "USDT Base Goerli",
+      "symbol": "USDT",
+      "address": "0x3e8B7c72f4a9f4C8ec375c11F44FB84242c3893F",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/JeuSwap/jeu-tokens/main/images/84531/tokens/0x3e8B7c72f4a9f4C8ec375c11F44FB84242c3893F.png"
+    },
+    {
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "address": "0xEE6A85394A3e511967e5c7033973416E2BB5FA53",
+      "chainId": 84531,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/JeuSwap/jeu-tokens/main/images/84531/tokens/0xEE6A85394A3e511967e5c7033973416E2BB5FA53.png"
+    }
+  ]
+}
